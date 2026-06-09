@@ -1,0 +1,8 @@
+{
+  "name": "My Pizza Lalamusa",
+  "description": "A modern web application for My Pizza Lalamusa featuring an online ordering system, animated UI with a red and yellow theme, and an admin dashboard to manage orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
